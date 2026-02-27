@@ -1,0 +1,2 @@
+# Electric-Motor-Temperature-Prediction-using--Machine-Learning
+Electric Motor Temperature Prediction using Machine Learning involves analyzing sensor data such as voltage, current, speed, and ambient conditions to estimate motor temperature. ML models help prevent overheating, improve efficiency, and enable predictive maintenance, reducing failures, downtime, and maintenance costs in industrial systems.
